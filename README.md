@@ -11,15 +11,4 @@ Este proyecto consiste en una aplicación de análisis de imágenes de hojas de 
 - React (Frontend futuro)
 - PlantVillage Dataset
 
-## 📁 Estructura del proyecto
-PlantDiseaseDetector/
-├── dataset/ # Dataset descargado de PlantVillage
-├── data/ # Datos preprocesados en formato NumPy
-├── src/
-│ ├── model/ # Entrenamiento y carga del modelo
-│ └── api/ # API REST con FastAPI
-├── notebooks/ # Exploraciones y visualización de datos
-├── preprocess.py # Preprocesamiento de imágenes
-├── requirements.txt
-└── README.md
 
