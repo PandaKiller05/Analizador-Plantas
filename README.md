@@ -28,5 +28,5 @@ Mover la carpeta a: Analizador-Plantas/dataset/PlantVillage/
 Ejecutar el script que convierte las imágenes en arrays NumPy:
 python preprocess.py
 
-##🤝 Licencia
+## 🤝 Licencia
 Este proyecto es educativo y forma parte del curso de inteligencia artificial aplicada a visión por computadora en ExpoEscom.
