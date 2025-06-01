@@ -15,14 +15,20 @@ Este proyecto consiste en una aplicación de análisis de imágenes de hojas de 
 Crear el entorno
 
 python -m venv venv
+
 venv\Scripts\activate
 
+
 Instalar las dependencias
+
 pip install -r requirements.txt
 
 Descargar el dataset
+
 Ir a: https://www.kaggle.com/datasets/emmarex/plantdisease
+
 Descargar y descomprimir el ZIP.
+
 Mover la carpeta a: Analizador-Plantas/dataset/PlantVillage/
 
 Ejecutar el script que convierte las imágenes en arrays NumPy:
