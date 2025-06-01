@@ -10,6 +10,30 @@ Este proyecto consiste en una aplicación de análisis de imágenes de hojas de 
 - FastAPI (API REST)
 - React (Frontend futuro)
 - PlantVillage Dataset
+  
+## 📁 Estructura del proyecto
+
+Analizador-Plantas/
+
+├── data/ # Datos preprocesados (no subir y crear)
+
+├── dataset/ # Dataset PlantVillage (no subir y crear)
+
+├── src/
+
+│ ├── api/ # Código de la API (FastAPI)
+
+│ └── model/ # Entrenamiento del modelo
+
+├── venv/ # Entorno virtual (no subir y crear)
+
+├── preprocess.py # Script de preprocesamiento
+
+├── requirements.txt # Dependencias del proyecto
+
+├── README.md # Instrucciones del proyecto
+
+└── .gitignore # Archivos a ignorar por Git
 
 ## 🚀 Cómo iniciar
 Crear el entorno
