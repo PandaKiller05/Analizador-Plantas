@@ -1,0 +1,30 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Modelos y datos grandes
+*.h5
+*.npz
+data/
+dataset/
+
+# Archivos de Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de VSCode (opcional)
+.vscode/
+
+# Archivos de logs (opcional)
+*.log
