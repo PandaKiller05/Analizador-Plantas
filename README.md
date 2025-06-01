@@ -14,5 +14,7 @@ Este proyecto consiste en una aplicación de análisis de imágenes de hojas de 
 ## 🚀 Cómo iniciar
 
 python -m venv venv
+
 source venv/bin/activate   # En Windows: venv\Scripts\activate
+
 pip install -r requirements.txt
