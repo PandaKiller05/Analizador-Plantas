@@ -13,7 +13,6 @@ __pycache__/
 # Modelos y datos grandes
 *.h5
 *.npz
-data/
 dataset/
 
 # Archivos de Jupyter notebook checkpoints
